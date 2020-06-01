@@ -1,0 +1,6 @@
+framework module Pods_See_Food {
+  umbrella header "Pods-See Food-umbrella.h"
+
+  export *
+  module * { export * }
+}
